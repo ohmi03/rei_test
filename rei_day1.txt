@@ -1,0 +1,4 @@
+creating Rei testing for day 1 of git repos
+
+day 1 struggling to add git without a folder name
+
